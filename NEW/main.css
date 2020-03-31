@@ -43,7 +43,7 @@
   }
   
   .container1 .btn0:hover {
-    background-color: grey;
+    background-color: transparent;
   color: white;
   }
 
@@ -133,7 +133,7 @@
   }
 
 .container3 .btn3:hover {
-    background-color: grey;
+    background-color: transparent;
   color: white;
   }
 
