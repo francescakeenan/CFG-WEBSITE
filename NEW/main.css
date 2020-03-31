@@ -68,7 +68,7 @@
   }
   
   .container2 .btn1:hover {
-    background-color: grey;
+    background-color: transparent;
   color: white;
   }
 
@@ -89,7 +89,7 @@
 
 
   .container2 .btn2:hover {
-    background-color: grey;
+    background-color: transparent;
   color: white;
   }
 
