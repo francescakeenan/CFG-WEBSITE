@@ -1,0 +1,11 @@
+.nav navbar-nav{
+    width: 100%;
+    background-color: beige;
+    overflow: auto;
+}
+.season {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
+    border: 5px solid black;
+}
